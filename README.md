@@ -1,9 +1,5 @@
 <h3>Olá, sou Gabriel Back! Deixa eu me apresentar um pouco!</h3>
-<style>
-    body {
-    background: linear-gradient(to right, #0D324D , #7F5A83);
-}
-</style>
+
 <p>Estudante de C#, atualmente trabalho como programador CAM , tenho 32 anos. Sou de Joinville SC, amante de desafios, programação, conectividade e portabilidade!</p>
 <h4>Me encontre também!</h4>
 <a href="https://www.instagram.com/gabrielluizback1006/">
@@ -18,10 +14,7 @@
 <hr>
 
 ### Desenvolvendo meus conhecimentos em:
-<img src="img/js.png" width= "30px" height= "30px" padding= "2px" >
-<img src="img/cSharp.jpg" width= "30px" height= "30px" padding= "2px">
-<img src="img/vs.png" width= "30px" height= "30px" padding= "2px">
-<img src="img/git.png" width= "30px" height= "30px" padding= "2px">
+<img src="img/js.png" width= "30px" height= "30px" padding= "2px" ><img src="img/cSharp.jpg" width= "30px" height= "30px" padding= "2px"><img src="img/vs.png" width= "30px" height= "30px" padding= "2px"><img src="img/git.png" width= "30px" height= "30px" padding= "2px">
 <hr>
 
 
