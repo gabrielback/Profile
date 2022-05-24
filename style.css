@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, #0D324D , #7F5A83);
+}
+
+
+div .skills img{
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+}
+
+div a {
+    padding: 2px;
+}
