@@ -12,9 +12,10 @@
 <a href="mailto:gabrielluiz-back@hotmail.com">
 <img src="img/mail.jpg" width="40px"style="padding: 2px">
 </a>
+
 <hr>
 
 ### Desenvolvendo meus conhecimentos em:
-<img src="img/js.png" width= "30px" height= "30px" style="padding: 2px" ><img src="img/cSharp.jpg" width= "30px" height= "30px" style="padding:2px"><img src="img/vs.png" width= "30px" height= "30px" style="padding:2px"><img src="img/git.png" width= "30px" height= "30px" style="padding:2px">
+<img src="img/js.png" width= "30px" height= "30px" style="padding: 2px" >|<img src="img/cSharp.jpg" width= "30px" height= "30px" style="padding:2px">|<img src="img/vs.png" width= "30px" height= "30px" style="padding:2px">|<img src="img/git.png" width= "30px" height= "30px" style="padding:2px">
 <img src="img/cSharp.gif" width="100%" style="border-radius:25%">
 </div>
