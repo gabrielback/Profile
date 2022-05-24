@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align:center; background: linear-gradient(to right, #0D324D , #7F5A83);">
 <h3>Olá, sou Gabriel Back! Deixa eu me apresentar um pouco!</h3>
 
 <p>Estudante de C#, atualmente trabalho como programador CAM , tenho 32 anos. Sou de Joinville SC, amante de desafios, programação, conectividade e portabilidade!</p>
