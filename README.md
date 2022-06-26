@@ -18,5 +18,5 @@
 ### Desenvolvendo meus conhecimentos em:
 <img src="img/js.png" width= "30px" height= "30px" style="padding: 2px" >|<img src="img/cSharp.jpg" width= "30px" height= "30px" style="padding:2px">|<img src="img/vs.png" width= "30px" height= "30px" style="padding:2px">|<img src="img/git.png" width= "30px" height= "30px" style="padding:2px">
 <br>
-<img src="img/cSharp.gif" width=150px>
+<img src="img/cSharp.gif" width="150px" style="border-radius:30px">
 </div>
